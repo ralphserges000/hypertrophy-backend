@@ -1,0 +1,1 @@
+ALTER TABLE completedExercises RENAME COLUMN workoutSessionId TO completedExerciseId;
